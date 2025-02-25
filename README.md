@@ -1,13 +1,24 @@
-## Hi there 👋
+Hi there, I'm Tim mwangi 👋
 
-<!--
-**tim-mwangi01/tim-mwangi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a student learing about programing passionate about coding, problem-solving, and building cool projects.
+Always exploring new technologies and pushing my limits.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🌱 I’m currently learning about front end and back end development
-- 👯 I’m looking to collaborate with ambitious people ready to change the world
+💻 I work with weekend acadamy
 
-- 💬 Ask me about anything regarding programing
-- 📫 How to reach me: timwangi2020@gmail.com
-- 😄 Pronouns: Him
+🌱 Currently learning about front end and backend development
+
+📫 Reach me at timwangi2020@gmail.com
+
+
+📈 GitHub Stats
+
+
+
+🔗 Connect with Me
+
+ 
+
+⭐️ From Tim mwangi
+
